@@ -6,7 +6,7 @@
             <router-link tag="li" :to="{name:'detail',params:{id:2},query:{title:'新闻二'}}">新闻二</router-link>
 
         </ul>
-        <router-view></router-view>
+        <!-- <router-view></router-view> -->
     </div>
 </template>
 <style>
